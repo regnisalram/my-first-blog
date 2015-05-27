@@ -1,0 +1,9 @@
+cd - change directory
+pwd - print working directory
+ls - list files
+mkdir - make directory
+cd .. - parent directory
+exit - exit
+cp - copy file - 
+mv - move file
+rm - delete file (remove?)

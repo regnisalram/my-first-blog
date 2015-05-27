@@ -1,0 +1,7 @@
+- cd tab nem működik
+- python 3.4.3 jó a 3.4.2 helyett?
+- gedit jó? (2.30.2 van)
+- megnyithatok mappát közvetlenül vagy mindig lépésenként kell megtalálnom?
+- magyar billentyűzet: csillag (shift-alt-,) nem működik
+- git repository lépés: példák, ugye nem baj, ha rövidebbek (ha jól értem, a példában már vannak más dolgok is a dep-ekben)
+- 
